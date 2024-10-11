@@ -4,7 +4,8 @@
 
 ![joaovictortx GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictortx&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictortx&layout=donut)](https://github.com/joaovictortx/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictortx)
+
 
 ## Tecnologias que uso
 <div style="display: inline_block"><br/>
